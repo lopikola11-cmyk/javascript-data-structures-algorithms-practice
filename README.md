@@ -23,5 +23,3 @@ This project is a practice playground for core computer-science concepts impleme
 
 ---
 
-## File structure (example)
-
